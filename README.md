@@ -4,7 +4,23 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+So this is the start of this react thingy..... But I personally wanted to ans a fewques here...... that's all haha... so react is a library of Js (JavaScript)... many say..Hey tell me is [React](https://reactjs.org) a library or a framework of js??....
+
+To ans that, we should know what library and framework is and by knowing that, we will understand what react is..... SIMPLE ANSWER.. A framework inverts the control of the program. It tells the developer what they need. A library doesn't. The programmer calls the library where and when they need it...EZ...
+
+ And if u have read the documentation... it's pretty normal for u to understand by now that React is a library and not a frameWork....
+
+ # I have to Sleep...
+
+ So I will continue next day or maybe never...
+
+ ( it was a just a typing practice from a keyboard and screen :) ]
+.
+.
+.
+.
+.
+# Continuetion of the react ways of work.........
 
 ### `npm start`
 
