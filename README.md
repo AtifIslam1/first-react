@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# This is my first time here editing a readme file so just ignore All that is down there... because All of it are about React.... so if u want to know more about react, Then [Click Here](https://reactjs.org)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
