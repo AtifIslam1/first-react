@@ -1,0 +1,27 @@
+.card
+{
+    color: aquamarine;
+}
+:root
+{
+    --clr: linear-gradient(60deg, yellow, blue);
+}
+.card img
+{
+    width: 120px;
+    border: 6px solid peru;
+    background: var(--clr);
+    border-radius: 20px;
+}
+.CName
+{
+    color: yellow;
+}
+.country
+{
+ 
+    padding: 20px;
+    margin: 20px;
+    background: linear-gradient(60deg, red, blue);
+    border-radius: 40px;
+}
